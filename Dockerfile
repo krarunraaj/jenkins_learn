@@ -13,4 +13,4 @@ RUN npm install express --save
 COPY ./ ./
 
 # Default command
-CMD ["node", "app.js"]                    
+CMD ["node11", "app.js"]                    
